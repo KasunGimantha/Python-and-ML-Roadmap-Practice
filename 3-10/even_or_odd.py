@@ -1,0 +1,1 @@
+input_number = input("Enter Number to check if it even or odd")
