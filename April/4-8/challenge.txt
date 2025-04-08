@@ -1,0 +1,9 @@
+Mini Challenge: Create a small script that:
+
+Asks the user for their name, age, and height in cm.
+
+Converts height from cm to meters.
+
+Prints a short bio like:
+"Hi Kasun! You are 25 years old and 1.75 meters tall."
+
