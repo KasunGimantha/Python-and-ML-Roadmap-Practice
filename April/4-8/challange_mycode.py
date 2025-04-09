@@ -21,7 +21,6 @@ print("Hi ", name, "! You are ", str(age),
 
 # def person_detail(name,age,height):
 #    return print("Hi ",name,"! You are ",str(age)," years old and ",float(height)/100," meters tall")
-
 # values = [name,age,height]
 # for x in values:
 #     x = input("Enter your ")
@@ -29,3 +28,8 @@ print("Hi ", name, "! You are ", str(age),
 # #person_detail(name,age,height)
 
 # print(values)
+ewqfgvwegv
+wegwreg
+wgfwrgwr
+wgsergwsg
+wgwggr
