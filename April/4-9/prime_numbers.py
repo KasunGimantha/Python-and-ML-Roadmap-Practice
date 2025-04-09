@@ -1,4 +1,4 @@
-# prime 1-100
+#prime
 for x in range(2, 100):
     is_prime = True
     for y in range(2, int(x**0.5)+1):
@@ -7,3 +7,4 @@ for x in range(2, 100):
             break
     if is_prime:
         print(x)
+

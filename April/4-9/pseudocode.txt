@@ -1,0 +1,31 @@
+#Even number sum from 1 to 100 using a loop
+
+get summations of even numbers from 1 to 100.
+
+--------In word------------
+check what numbers are even between 1 to 100
+    use if condition to check evenity
+getting the list of finded even numbers between 1 to 100
+    use append() method to add to a list
+add even numbers together.
+    sum() can get summation
+
+
+jesus that method worked!!!!
+its not that much but honest work.LOL
+
+# Fizzbuzz
+
+Asking user to input a number he desire and print words "fizz","Buzz","FizzBuzz" randomly or the user inputed number
+
+-------------Steps----------------------
+First of all we need ask user to input a number  and assign it to variable
+    use python input() 
+assign 3 variables to seperate numbers from 1 to 4
+    use assign (=)
+Randomly generate a number between 1 and 5 
+    python rand() method
+if randomly generate number match the pre defined vaariable name,output it with relevent word
+    use print()
+if not match, output inputed number
+  use if statement
