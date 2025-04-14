@@ -1,0 +1,32 @@
+Review (20 min):
+
+What is a function?
+    function is a reusbale codeblock that sometimes include return values
+Enhanced Answer:
+    A function is a named block of code designed to perform a specific task. It can be reused multiple times and may or may not return a value. Think of it like a machine: you feed it inputs, it processes something, and might give you an output.     
+
+What is the difference between parameters and arguments?
+    parameter is acting like a placeholder for value.It catch the passed value from outside the function.Argument in other hand has a actual value.It is the thing that pass value into function when it called
+Enhanced ANswer:
+    Parameter → variable in the function definition (like a label).
+
+    Argument → actual value you pass into the function during the call.
+
+    📌 Example:
+
+    python
+    Copy
+    Edit
+    def greet(name):      # name → parameter
+        print("Hello", name)
+
+    greet("Kasun")                
+
+
+
+What does return actually do?
+
+    return act as the output from the function..It output the value or statements as a result of whjy function created in the first place
+
+Enhanced Answer:
+    The return keyword ends the function and sends a result back to where it was called. If you don’t use return, the function will output None by default unless it just performs side effects (like print()
