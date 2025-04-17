@@ -13,3 +13,5 @@ tripler = make_multiplier(3)
 
 print(doubler(10))
 print(tripler(5))
+
+
